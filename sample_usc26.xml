@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uslm xmlns="http://xml.house.gov/schemas/uslm/1.0"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/">
+  <meta>
+    <dc:title>Title 26 - Internal Revenue Code</dc:title>
+    <dc:type>Title</dc:type>
+  </meta>
+  <main>
+    <title identifier="/us/usc/t26">
+      <num value="26">Title 26</num>
+      <heading>Internal Revenue Code</heading>
+
+      <subtitle identifier="/us/usc/t26/stA">
+        <num value="A">Subtitle A</num>
+        <heading>Income Taxes</heading>
+
+        <chapter identifier="/us/usc/t26/stA/ch1">
+          <num value="1">Chapter 1</num>
+          <heading>Normal Taxes and Surtaxes</heading>
+
+          <subchapter identifier="/us/usc/t26/stA/ch1/schA">
+            <num value="A">Subchapter A</num>
+            <heading>Determination of Tax Liability</heading>
+
+            <part identifier="/us/usc/t26/stA/ch1/schA/ptI">
+              <num value="I">Part I</num>
+              <heading>Tax on Individuals</heading>
+
+              <section identifier="/us/usc/t26/s1">
+                <num value="1">Sec. 1</num>
+                <heading>Tax imposed</heading>
+                <subsection identifier="/us/usc/t26/s1/a">
+                  <num value="(a)">(a)</num>
+                  <heading>Married individuals filing joint returns and surviving spouses</heading>
+                  <content>There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who makes a single return jointly with his spouse under section 6013, and every surviving spouse (as defined in section 2(a)), a tax determined in accordance with the following table:
+                    <table>
+                      <tr><th>If taxable income is:</th><th>The tax is:</th></tr>
+                      <tr><td>Not over $19,750</td><td>10% of taxable income</td></tr>
+                      <tr><td>Over $19,750 but not over $80,250</td><td>$1,975 plus 12% of excess over $19,750</td></tr>
+                      <tr><td>Over $80,250 but not over $171,050</td><td>$9,235 plus 22% of excess over $80,250</td></tr>
+                      <tr><td>Over $171,050 but not over $326,600</td><td>$29,211 plus 24% of excess over $171,050</td></tr>
+                      <tr><td>Over $326,600 but not over $414,700</td><td>$66,543 plus 32% of excess over $326,600</td></tr>
+                      <tr><td>Over $414,700 but not over $622,050</td><td>$94,735 plus 35% of excess over $414,700</td></tr>
+                      <tr><td>Over $622,050</td><td>$167,307.50 plus 37% of excess over $622,050</td></tr>
+                    </table>
+                  </content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Heads of households</heading>
+                  <content>There is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/c">
+                  <num value="(c)">(c)</num>
+                  <heading>Unmarried individuals (other than surviving spouses and heads of households)</heading>
+                  <content>There is hereby imposed on the taxable income of every individual (other than a surviving spouse as defined in section 2(a) or the head of a household as defined in section 2(b)) who is not a married individual (as defined in section 7703) a tax determined in accordance with the following table.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/d">
+                  <num value="(d)">(d)</num>
+                  <heading>Married individuals filing separate returns</heading>
+                  <content>There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who does not make a single return jointly with his spouse under section 6013, a tax determined in accordance with the following table.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/e">
+                  <num value="(e)">(e)</num>
+                  <heading>Estates and trusts</heading>
+                  <content>There is hereby imposed on the taxable income of every estate and trust taxable under this subsection a tax determined in accordance with the following table.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/f">
+                  <num value="(f)">(f)</num>
+                  <heading>Adjustments in tax tables so that inflation will not result in tax increases</heading>
+                  <content>The Secretary shall prescribe tables which shall apply in lieu of the tables contained in subsections (a), (b), (c), (d), and (e) with respect to taxable years beginning in a calendar year after 1993.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/g">
+                  <num value="(g)">(g)</num>
+                  <heading>Certain unearned income of children taxed as if parent's income</heading>
+                  <content>In the case of any child to whom this subsection applies, the tax imposed by this section shall be equal to the greater of the tax imposed under paragraph (1) or the sum of the tax that would be imposed under this section if the child's net unearned income were not taken into account.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s1/h">
+                  <num value="(h)">(h)</num>
+                  <heading>Maximum capital gains rate</heading>
+                  <content>If a taxpayer has a net capital gain for any taxable year, the tax imposed by this section for such taxable year shall not exceed the sum determined under paragraph (1), subject to the provisions of section 1(h)(11) regarding qualified dividend income.</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s2">
+                <num value="2">Sec. 2</num>
+                <heading>Definitions and special rules</heading>
+                <subsection identifier="/us/usc/t26/s2/a">
+                  <num value="(a)">(a)</num>
+                  <heading>Definition of surviving spouse</heading>
+                  <content>For purposes of section 1, the term "surviving spouse" means a taxpayer whose spouse died during either of the two taxable years immediately preceding the taxable year, and who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s2/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Definition of head of household</heading>
+                  <content>For purposes of this subtitle, an individual shall be considered a head of a household if, and only if, such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection (a)), and maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s2/c">
+                  <num value="(c)">(c)</num>
+                  <heading>Certain married individuals living apart</heading>
+                  <content>For purposes of this part, an individual shall be treated as not married at the close of the taxable year if such individual is so treated under the provisions of section 7703(b).</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s3" status="repealed">
+                <num value="3">Sec. 3</num>
+                <heading>Tax tables for individuals</heading>
+                <content>[Repealed. Pub. L. 99-514, title I, Sec. 141(a), Oct. 22, 1986, 100 Stat. 2117]</content>
+              </section>
+
+              <section identifier="/us/usc/t26/s4" status="repealed">
+                <num value="4">Sec. 4</num>
+                <heading>Rules for optional tax</heading>
+                <content>[Repealed. Pub. L. 95-30, title I, Sec. 101(d)(1), May 23, 1977, 91 Stat. 133]</content>
+              </section>
+
+              <section identifier="/us/usc/t26/s5">
+                <num value="5">Sec. 5</num>
+                <heading>Cross references relating to tax on individuals</heading>
+                <content>For rates of tax on nonresident aliens, see section 871. For doubling of tax on citizens of certain foreign countries, see section 891. For rate of withholding in case of nonresident aliens, see section 1441. For tax on income of estates and trusts, see section 641.</content>
+              </section>
+            </part>
+
+            <part identifier="/us/usc/t26/stA/ch1/schA/ptII">
+              <num value="II">Part II</num>
+              <heading>Tax on Corporations</heading>
+
+              <section identifier="/us/usc/t26/s11">
+                <num value="11">Sec. 11</num>
+                <heading>Tax imposed</heading>
+                <subsection identifier="/us/usc/t26/s11/a">
+                  <num value="(a)">(a)</num>
+                  <heading>Corporations in general</heading>
+                  <content>A tax is hereby imposed for each taxable year on the taxable income of every corporation. The amount of the tax imposed by subsection (a) shall be 21 percent of taxable income.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s11/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Qualified personal service corporations</heading>
+                  <content>In the case of a qualified personal service corporation (as defined in section 448(d)(2)), the tax imposed by subsection (a) shall be computed by applying a rate of 21 percent.</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s12" status="repealed">
+                <num value="12">Sec. 12</num>
+                <heading>Cross references relating to tax on corporations</heading>
+                <content>[Repealed. Pub. L. 115-97, title I, Sec. 13001(b)(1), Dec. 22, 2017, 131 Stat. 2096]</content>
+              </section>
+            </part>
+
+            <part identifier="/us/usc/t26/stA/ch1/schA/ptIII">
+              <num value="III">Part III</num>
+              <heading>Changes in Rates During a Taxable Year</heading>
+
+              <section identifier="/us/usc/t26/s15">
+                <num value="15">Sec. 15</num>
+                <heading>Effect of changes</heading>
+                <subsection identifier="/us/usc/t26/s15/a">
+                  <num value="(a)">(a)</num>
+                  <heading>General rule</heading>
+                  <content>If any rate of tax imposed by this chapter changes, and if the taxable year includes the effective date of the change (unless that date is the first day of the taxable year), then the tax under this chapter for the taxable year shall be computed in accordance with regulations prescribed by the Secretary.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s15/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Section inapplicable to certain changes</heading>
+                  <content>This section shall not apply to any change in rate provided under section 1(f), 1(j), 32(b)(3), 41(h), 42(b)(2), 68(b)(2), 911(b)(2)(D)(ii), or 7872(e)(2).</content>
+                </subsection>
+              </section>
+            </part>
+
+            <part identifier="/us/usc/t26/stA/ch1/schA/ptIV">
+              <num value="IV">Part IV</num>
+              <heading>Credits Against Tax</heading>
+
+              <subpart identifier="/us/usc/t26/stA/ch1/schA/ptIV/sptA">
+                <num value="A">Subpart A</num>
+                <heading>Nonrefundable Personal Credits</heading>
+
+                <section identifier="/us/usc/t26/s21">
+                  <num value="21">Sec. 21</num>
+                  <heading>Expenses for household and dependent care services necessary for gainful employment</heading>
+                  <subsection identifier="/us/usc/t26/s21/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s21/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Definitions of qualifying individual and employment-related expenses</heading>
+                    <paragraph identifier="/us/usc/t26/s21/b/1">
+                      <num value="(1)">(1)</num>
+                      <heading>Qualifying individual</heading>
+                      <content>The term "qualifying individual" means a dependent of the taxpayer (as defined in section 152(a)(1)) who has not attained age 13.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/usc/t26/s21/b/2">
+                      <num value="(2)">(2)</num>
+                      <heading>Employment-related expenses</heading>
+                      <content>The term "employment-related expenses" means amounts paid for household services and for the care of a qualifying individual but only if such amounts are incurred to enable the taxpayer to be gainfully employed.</content>
+                    </paragraph>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s21/c">
+                    <num value="(c)">(c)</num>
+                    <heading>Dollar limit on amount creditable</heading>
+                    <content>The amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection (a) shall not exceed $3,000 for 1 qualifying individual, or $6,000 for 2 or more qualifying individuals.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s22">
+                  <num value="22">Sec. 22</num>
+                  <heading>Credit for the elderly and the permanently and totally disabled</heading>
+                  <subsection identifier="/us/usc/t26/s22/a">
+                    <num value="(a)">(a)</num>
+                    <heading>General rule</heading>
+                    <content>In the case of a qualified individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 15 percent of such individual's section 22 amount for such taxable year.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s22/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Qualified individual</heading>
+                    <content>For purposes of this section, the term "qualified individual" means any individual who has attained age 65 before the close of the taxable year, or who retired on disability before the close of the taxable year.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s23">
+                  <num value="23">Sec. 23</num>
+                  <heading>Adoption expenses</heading>
+                  <subsection identifier="/us/usc/t26/s23/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s23/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Limitations</heading>
+                    <paragraph identifier="/us/usc/t26/s23/b/1">
+                      <num value="(1)">(1)</num>
+                      <heading>Dollar limitation</heading>
+                      <content>The aggregate amount of qualified adoption expenses which may be taken into account under subsection (a) with respect to the adoption of a child shall not exceed $14,890.</content>
+                    </paragraph>
+                    <paragraph identifier="/us/usc/t26/s23/b/2">
+                      <num value="(2)">(2)</num>
+                      <heading>Income limitation</heading>
+                      <content>The amount allowable as a credit under subsection (a) for any taxable year shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable as provided in section 23(b)(2)(A).</content>
+                    </paragraph>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s24">
+                  <num value="24">Sec. 24</num>
+                  <heading>Child tax credit</heading>
+                  <subsection identifier="/us/usc/t26/s24/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer for which the taxpayer is allowed a deduction under section 151 an amount equal to $2,000 per qualifying child.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s24/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Limitation based on adjusted gross income</heading>
+                    <content>The amount of the credit allowable under subsection (a) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds the threshold amount.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s24/c">
+                    <num value="(c)">(c)</num>
+                    <heading>Qualifying child</heading>
+                    <content>For purposes of this section, the term "qualifying child" means a qualifying child of the taxpayer (as defined in section 152(c)) who has not attained age 17.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s24/d">
+                    <num value="(d)">(d)</num>
+                    <heading>Portion of credit refundable</heading>
+                    <content>The aggregate credits allowed to a taxpayer under subpart C shall be increased by the lesser of the credit which would be allowed under this section without regard to this subsection and the limitation under section 26(a) or 15 percent of so much of the taxpayer's earned income as exceeds $2,500.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s25">
+                  <num value="25">Sec. 25</num>
+                  <heading>Interest on certain home mortgages</heading>
+                  <subsection identifier="/us/usc/t26/s25/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>There shall be allowed to an individual as a credit against the tax imposed by this chapter for the taxable year an amount equal to the product of the certificate credit rate with respect to any mortgage credit certificate held by such individual and the interest paid or accrued by the taxpayer during the taxable year on the remaining principal of the certified indebtedness amount, subject to the limitations under section 25(c).</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s25A">
+                  <num value="25A">Sec. 25A</num>
+                  <heading>Hope and Lifetime Learning credits</heading>
+                  <subsection identifier="/us/usc/t26/s25A/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year the amount equal to the sum of the American Opportunity Tax Credit and the Lifetime Learning Credit.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s25A/b">
+                    <num value="(b)">(b)</num>
+                    <heading>American Opportunity Tax Credit</heading>
+                    <content>In the case of any eligible student for whom an election is in effect under this section, the American Opportunity Tax Credit is an amount equal to the sum of 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s25B">
+                  <num value="25B">Sec. 25B</num>
+                  <heading>Elective deferrals and IRA contributions by certain individuals</heading>
+                  <subsection identifier="/us/usc/t26/s25B/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s25C">
+                  <num value="25C">Sec. 25C</num>
+                  <heading>Energy efficient home improvement credit</heading>
+                  <subsection identifier="/us/usc/t26/s25C/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the sum of the amounts paid or incurred by the taxpayer during such taxable year for qualified energy efficiency improvements.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s25D">
+                  <num value="25D">Sec. 25D</num>
+                  <heading>Residential clean energy credit</heading>
+                  <subsection identifier="/us/usc/t26/s25D/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the sum of the qualified solar electric property expenditures, qualified solar water heating property expenditures, qualified fuel cell property expenditures, qualified small wind energy property expenditures, and qualified battery storage technology expenditures.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s25E">
+                  <num value="25E">Sec. 25E</num>
+                  <heading>Previously-owned clean vehicles</heading>
+                  <subsection identifier="/us/usc/t26/s25E/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of a qualified buyer who during a taxable year places in service a previously-owned clean vehicle, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the lesser of $4,000 or the amount equal to 30 percent of the sale price.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s26">
+                  <num value="26">Sec. 26</num>
+                  <heading>Limitation based on tax liability; definition of tax liability</heading>
+                  <subsection identifier="/us/usc/t26/s26/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Limitation based on amount of tax</heading>
+                    <content>The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the excess (if any) of the taxpayer's regular tax liability for the taxable year over the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s26/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Regular tax liability</heading>
+                    <content>For purposes of this part, the term "regular tax liability" means the tax imposed by this chapter for the taxable year reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s27">
+                  <num value="27">Sec. 27</num>
+                  <heading>Taxes of foreign countries and possessions of the United States; possession tax credit</heading>
+                  <subsection identifier="/us/usc/t26/s27/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Foreign tax credit</heading>
+                    <content>The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax imposed by this chapter to the extent provided in section 901.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s27/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Section 936 credit</heading>
+                    <content>The amount of the section 936 credit allowable under section 936 shall be allowed as a credit against the tax imposed by this chapter to the extent provided in such section.</content>
+                  </subsection>
+                </section>
+              </subpart>
+
+              <subpart identifier="/us/usc/t26/stA/ch1/schA/ptIV/sptB">
+                <num value="B">Subpart B</num>
+                <heading>Other Credits</heading>
+
+                <section identifier="/us/usc/t26/s30">
+                  <num value="30">Sec. 30</num>
+                  <heading>Certain plug-in electric vehicles</heading>
+                  <content>[Repealed. Pub. L. 113-295, div. A, title II, Sec. 221(a)(28), Dec. 19, 2014, 128 Stat. 4040]</content>
+                </section>
+
+                <section identifier="/us/usc/t26/s30A" status="repealed">
+                  <num value="30A">Sec. 30A</num>
+                  <heading>Puerto Rico economic activity credit</heading>
+                  <content>[Repealed effective for taxable years beginning after December 31, 2013, except as provided in section 936(j)]</content>
+                </section>
+
+                <section identifier="/us/usc/t26/s30B">
+                  <num value="30B">Sec. 30B</num>
+                  <heading>Alternative motor vehicle credit</heading>
+                  <subsection identifier="/us/usc/t26/s30B/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the new qualified fuel cell motor vehicle credit, the new advanced lean burn technology motor vehicle credit, the new qualified hybrid motor vehicle credit, and the new qualified alternative fuel motor vehicle credit.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s30C">
+                  <num value="30C">Sec. 30C</num>
+                  <heading>Alternative fuel vehicle refueling property credit</heading>
+                  <subsection identifier="/us/usc/t26/s30C/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Credit allowed</heading>
+                    <content>There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s30D">
+                  <num value="30D">Sec. 30D</num>
+                  <heading>Clean vehicle credit</heading>
+                  <subsection identifier="/us/usc/t26/s30D/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s30D/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Credit amount</heading>
+                    <content>For purposes of subsection (a), the credit amount determined under this subsection with respect to any new clean vehicle is the sum of $3,750 if such vehicle meets the critical mineral requirement, plus $3,750 if such vehicle meets the battery component requirement, as described in section 30D(e).</content>
+                  </subsection>
+                </section>
+              </subpart>
+
+              <subpart identifier="/us/usc/t26/stA/ch1/schA/ptIV/sptC">
+                <num value="C">Subpart C</num>
+                <heading>Refundable Credits</heading>
+
+                <section identifier="/us/usc/t26/s31">
+                  <num value="31">Sec. 31</num>
+                  <heading>Tax withheld on wages</heading>
+                  <subsection identifier="/us/usc/t26/s31/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Wage withholding for income tax purposes</heading>
+                    <content>The amount withheld as tax under chapter 24 shall be allowed to the recipient of the income as a credit against the tax imposed by this subtitle.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s32">
+                  <num value="32">Sec. 32</num>
+                  <heading>Earned income</heading>
+                  <subsection identifier="/us/usc/t26/s32/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Allowance of credit</heading>
+                    <content>In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for the taxable year as does not exceed the earned income amount.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s32/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Percentages and amounts</heading>
+                    <content>For purposes of subsection (a), the credit percentage and the phaseout percentage shall be determined by reference to the number of qualifying children, as provided in section 32(b)(1).</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s32/c">
+                    <num value="(c)">(c)</num>
+                    <heading>Definitions and special rules</heading>
+                    <paragraph identifier="/us/usc/t26/s32/c/1">
+                      <num value="(1)">(1)</num>
+                      <heading>Eligible individual</heading>
+                      <content>The term "eligible individual" means any individual who has a qualifying child for the taxable year, or meets the age requirements of section 32(c)(1)(A)(ii).</content>
+                    </paragraph>
+                    <paragraph identifier="/us/usc/t26/s32/c/2">
+                      <num value="(2)">(2)</num>
+                      <heading>Earned income</heading>
+                      <content>The term "earned income" means wages, salaries, tips, and other employee compensation, but only if such amounts are includible in gross income for the taxable year, plus the amount of the taxpayer's net earnings from self-employment.</content>
+                    </paragraph>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s33">
+                  <num value="33">Sec. 33</num>
+                  <heading>Tax withheld at source on nonresident aliens and foreign corporations</heading>
+                  <subsection identifier="/us/usc/t26/s33/a">
+                    <num value="(a)">(a)</num>
+                    <heading>General rule</heading>
+                    <content>The amount of tax withheld under chapter 3 (other than taxes withheld under section 1446 or 1446A) shall be allowed as a credit against the tax imposed by this subtitle to the extent of such tax.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s34">
+                  <num value="34">Sec. 34</num>
+                  <heading>Certain uses of gasoline and special fuels</heading>
+                  <subsection identifier="/us/usc/t26/s34/a">
+                    <num value="(a)">(a)</num>
+                    <heading>General rule</heading>
+                    <content>There shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of the amounts payable to the taxpayer under section 6420 (relating to amounts paid in respect of gasoline used on farms), under section 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), and under section 6427 (relating to fuels not used for taxable purposes).</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s35">
+                  <num value="35">Sec. 35</num>
+                  <heading>Health insurance costs of eligible individuals</heading>
+                  <subsection identifier="/us/usc/t26/s35/a">
+                    <num value="(a)">(a)</num>
+                    <heading>In general</heading>
+                    <content>In the case of an individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s36">
+                  <num value="36">Sec. 36</num>
+                  <heading>First-time homebuyer credit</heading>
+                  <content>[Expired. This section applied to purchases of principal residences before May 1, 2010]</content>
+                </section>
+
+                <section identifier="/us/usc/t26/s36A" status="repealed">
+                  <num value="36A">Sec. 36A</num>
+                  <heading>Making work pay credit</heading>
+                  <content>[Repealed. Pub. L. 111-312, title I, Sec. 101(b), Dec. 17, 2010, 124 Stat. 3298]</content>
+                </section>
+
+                <section identifier="/us/usc/t26/s36B">
+                  <num value="36B">Sec. 36B</num>
+                  <heading>Refundable credit for coverage under a qualified health plan</heading>
+                  <subsection identifier="/us/usc/t26/s36B/a">
+                    <num value="(a)">(a)</num>
+                    <heading>In general</heading>
+                    <content>In the case of an applicable taxpayer, there shall be allowed as a credit against the tax imposed by this subtitle for any taxable year an amount equal to the premium assistance credit amount of the taxpayer for the taxable year.</content>
+                  </subsection>
+                  <subsection identifier="/us/usc/t26/s36B/b">
+                    <num value="(b)">(b)</num>
+                    <heading>Premium assistance credit amount</heading>
+                    <content>For purposes of this section, the premium assistance credit amount of the taxpayer for any taxable year is the sum of the premium assistance amounts determined under subsection (b)(2) with respect to all coverage months of the taxpayer occurring during the taxable year.</content>
+                  </subsection>
+                </section>
+
+                <section identifier="/us/usc/t26/s36C">
+                  <num value="36C">Sec. 36C</num>
+                  <heading>Child tax credit</heading>
+                  <content>For child tax credit, see section 24, redesignated by the Inflation Reduction Act of 2022 as section 36C for refundable portion treatment under certain circumstances.</content>
+                </section>
+
+                <section identifier="/us/usc/t26/s37">
+                  <num value="37">Sec. 37</num>
+                  <heading>Overpayments of tax</heading>
+                  <subsection identifier="/us/usc/t26/s37/a">
+                    <num value="(a)">(a)</num>
+                    <heading>Credit allowed</heading>
+                    <content>The credit for overpayments of tax shall be treated as allowed under subpart C of part IV of this subchapter to the extent provided in section 6401.</content>
+                  </subsection>
+                </section>
+              </subpart>
+            </part>
+          </subchapter>
+
+          <subchapter identifier="/us/usc/t26/stA/ch1/schB">
+            <num value="B">Subchapter B</num>
+            <heading>Computation of Taxable Income</heading>
+
+            <part identifier="/us/usc/t26/stA/ch1/schB/ptI">
+              <num value="I">Part I</num>
+              <heading>Definition of Gross Income, Adjusted Gross Income, Taxable Income, Etc.</heading>
+
+              <section identifier="/us/usc/t26/s61">
+                <num value="61">Sec. 61</num>
+                <heading>Gross income defined</heading>
+                <subsection identifier="/us/usc/t26/s61/a">
+                  <num value="(a)">(a)</num>
+                  <heading>General definition</heading>
+                  <content>Except as otherwise provided in this subtitle, gross income means all income from whatever source derived, including (but not limited to) the following items: (1) Compensation for services, including fees, commissions, fringe benefits, and similar items; (2) Gross income derived from business; (3) Gains derived from dealings in property; (4) Interest; (5) Rents; (6) Royalties; (7) Dividends; (8) Annuities; (9) Income from life insurance and endowment contracts; (10) Pensions; (11) Income from discharge of indebtedness; (12) Distributive share of partnership gross income; (13) Income in respect of a decedent; and (14) Income from an interest in an estate or trust.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s61/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Cross references</heading>
+                  <content>For items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s62">
+                <num value="62">Sec. 62</num>
+                <heading>Adjusted gross income defined</heading>
+                <subsection identifier="/us/usc/t26/s62/a">
+                  <num value="(a)">(a)</num>
+                  <heading>General rule</heading>
+                  <content>For purposes of this subtitle, the term "adjusted gross income" means, in the case of an individual, gross income minus the following deductions: (1) Trade and business deductions as provided in section 162; (2) Certain trade and business deductions of employees as provided in section 162(a) for reimbursed expenses; (3) Losses from sale or exchange of property; (4) Deductions attributable to rents and royalties; (5) Certain deductions of life tenants and income beneficiaries of property; (6) Pension, profit-sharing, and annuity plans of self-employed individuals as provided in sections 404 and 219; and (7) Retirement savings as provided in section 219.</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s63">
+                <num value="63">Sec. 63</num>
+                <heading>Taxable income defined</heading>
+                <subsection identifier="/us/usc/t26/s63/a">
+                  <num value="(a)">(a)</num>
+                  <heading>In general</heading>
+                  <content>Except as provided in subsection (b), for purposes of this subtitle, the term "taxable income" means gross income minus the deductions allowed by this chapter (other than the standard deduction).</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s63/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Individuals who do not itemize their deductions</heading>
+                  <content>In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, taxable income means adjusted gross income minus the standard deduction and the deduction for personal exemptions provided in section 151.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s63/c">
+                  <num value="(c)">(c)</num>
+                  <heading>Standard deduction</heading>
+                  <paragraph identifier="/us/usc/t26/s63/c/1">
+                    <num value="(1)">(1)</num>
+                    <heading>In general</heading>
+                    <content>For purposes of this subtitle, the term "standard deduction" means the sum of the basic standard deduction and the additional standard deduction.</content>
+                  </paragraph>
+                  <paragraph identifier="/us/usc/t26/s63/c/2">
+                    <num value="(2)">(2)</num>
+                    <heading>Basic standard deduction</heading>
+                    <content>For purposes of paragraph (1), the basic standard deduction is $12,950 in the case of a joint return or a surviving spouse (as defined in section 2(a)), $9,600 in the case of a head of household (as defined in section 2(b)), or $6,475 in the case of an individual who is not married and who is not a surviving spouse or head of household.</content>
+                  </paragraph>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s64">
+                <num value="64">Sec. 64</num>
+                <heading>Ordinary income defined</heading>
+                <content>For purposes of this subtitle, the term "ordinary income" includes any gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231(b).</content>
+              </section>
+
+              <section identifier="/us/usc/t26/s65">
+                <num value="65">Sec. 65</num>
+                <heading>Ordinary loss defined</heading>
+                <content>For purposes of this subtitle, the term "ordinary loss" includes any loss from the sale or exchange of property which is not a capital asset. Any loss from the sale or exchange of property which is treated as ordinary loss under section 1231 shall be treated as a loss from the sale or exchange of property which is not a capital asset.</content>
+              </section>
+
+              <section identifier="/us/usc/t26/s66">
+                <num value="66">Sec. 66</num>
+                <heading>Treatment of community income</heading>
+                <subsection identifier="/us/usc/t26/s66/a">
+                  <num value="(a)">(a)</num>
+                  <heading>Treatment of community income where spouses live apart</heading>
+                  <content>If (1) 2 individuals are married to each other at any time during a calendar year; (2) such individuals live apart at all times during the calendar year; (3) do not file a joint return under section 6013 with each other for a taxable year beginning or ending in the calendar year; and (4) one or both have earned income for the calendar year that is community income; then, for purposes of this title, any community income of such individuals for the calendar year shall be treated in accordance with the rules provided in subsection (a).</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s67">
+                <num value="67">Sec. 67</num>
+                <heading>2-percent floor on miscellaneous itemized deductions</heading>
+                <subsection identifier="/us/usc/t26/s67/a">
+                  <num value="(a)">(a)</num>
+                  <heading>General rule</heading>
+                  <content>In the case of an individual, the miscellaneous itemized deductions for any taxable year shall be allowed only to the extent that the aggregate of such deductions exceeds 2 percent of adjusted gross income.</content>
+                </subsection>
+                <subsection identifier="/us/usc/t26/s67/b">
+                  <num value="(b)">(b)</num>
+                  <heading>Miscellaneous itemized deductions</heading>
+                  <content>For purposes of this section, the term "miscellaneous itemized deductions" means the itemized deductions other than (1) the deduction under section 163 (relating to interest); (2) the deduction under section 164 (relating to taxes); (3) the deduction under section 165(a) for casualty losses; (4) the deductions under section 170 (relating to charitable contributions); (5) the deduction under section 213 (relating to medical expenses); and others specifically enumerated in subsection (b).</content>
+                </subsection>
+              </section>
+
+              <section identifier="/us/usc/t26/s68">
+                <num value="68">Sec. 68</num>
+                <heading>Overall limitation on itemized deductions</heading>
+                <subsection identifier="/us/usc/t26/s68/a">
+                  <num value="(a)">(a)</num>
+                  <heading>General rule</heading>
+                  <content>In the case of an individual whose adjusted gross income exceeds the applicable amount, the amount of the itemized deductions otherwise allowable for the taxable year shall be reduced by the lesser of (1) 3 percent of the excess of adjusted gross income over the applicable amount, or (2) 80 percent of the amount of the itemized deductions otherwise allowable for such taxable year.</content>
+                </subsection>
+              </section>
+            </part>
+          </subchapter>
+        </chapter>
+      </subtitle>
+    </title>
+  </main>
+</uslm>
