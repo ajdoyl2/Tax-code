@@ -38,3 +38,6 @@ parsed_output.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Archon MCP Server
+archon/.env
